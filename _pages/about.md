@@ -8,10 +8,11 @@ redirect_from:
 ---
 个人简介
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I’m a third-year undergraduate student majoring in Computer Science at Fuzhou University. My academic journey has deepened my interest in software engineering, particularly in areas such as systems architecture, software development methodologies, and programming languages.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am privileged to work under the guidance of Prof. XXX at the Software Engineering Lab, where I am involved in research projects focusing on [specific projects or technologies]. My previous work with Prof. XXX has provided me with a solid foundation in [related skills or areas].
 
+Outside of academics, I am actively involved in [any extracurricular activities, such as coding clubs or internships]. These experiences have honed my skills in [specific tools or technologies].
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
