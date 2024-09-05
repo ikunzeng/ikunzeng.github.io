@@ -27,7 +27,7 @@ author:
   bio              : "hello world"
   location         : "FuJian"
   employer         : "FuZhou University"
-  uri              : https://ikunzeng.github.io
+  uri              : #https://ikunzeng.github.io
   email            : "1090755009@qq.com" 
 
   # Academic websites
